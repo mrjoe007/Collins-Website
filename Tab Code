@@ -1,0 +1,19 @@
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'About Me')">About me</button>
+  <button class="tablinks" onclick="openCity(event, 'What I like to do')">What I like to do</button>
+  <button class="tablinks" onclick="openCity(event, 'What I look like')">What I look like</button>
+</div>
+
+<div id="About Me" class="tabcontent">
+  <h3>About me</h3>
+  <p>My name is collin, I'm a 15 year old male that attends community school of davidson HS, I'm showing you guy's how to do dabs today.</p>
+</div>
+
+<div id="What I like to do" class="tabcontent">
+  <h3>What I like to do</h3>
+  <p>I like to snowboard, play GTA V on xbox one, I also like to surf on cs:go, but my favorite thing to do is to make minecraft parody songs.</p> 
+</div>
+
+<div id="What I look like" class="tabcontent">
+  <a href="http://imgur.com/Ap4qtkr"><img src="http://i.imgur.com/Ap4qtkr.jpg"/></a>
+</div>
